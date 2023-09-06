@@ -270,7 +270,7 @@ def ListeDir(dir):
         #########################################
 
 def Scan(FileName):
-    api_key = "81da52a16ece386029728f0fb927e19f4c749916492bb3045859fb47613171d1"
+    api_key = "" #INSERT YOUR API KEY#
     api_url = "https://www.virustotal.com/vtapi/v2/file/scan"
     pathfile = FileName
     with open(pathfile, 'rb') as file:
