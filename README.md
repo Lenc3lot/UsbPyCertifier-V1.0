@@ -25,7 +25,7 @@ Credits:
 -> PythonUSBCertifier V1.0
 -> Using Python3.11 (AT LEAST)
 -> VirusTotal API v3
--> 
+-> Made for @SFEC COMPUSHIP - https://compuships.fr/
 
 ------------------------------------------                                                                   
                                                                                         
@@ -98,8 +98,7 @@ Miscellaneous :
 
     -> Please be sure to have a VirusTotal account and put your API key in the MainUSB.py file
     -> Also, please know that you will have some quota with the free version of VirusTotalAPI (find more on https://www.virustotal.com/gui/my-apikey)
-    -> You can put the MainUSB.py file and the run.bat script on                                                                                                        
-
+    -> You can put the MainUSB.py file and the run.bat script
  
                                                                                                         
                                                                                                         
